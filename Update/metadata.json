@@ -13,13 +13,19 @@
             "size": 9
         },
         {
+            "checksum": 2604796502,
+            "compressed_size": 35,
+            "relative_path": "test11.txt",
+            "size": 15
+        },
+        {
             "checksum": 2910954790,
             "compressed_size": 383,
             "relative_path": "system\\config.ini",
             "size": 390
         }
     ],
-    "total_compressed_size": 2732461,
-    "total_files": 2,
-    "version": 17627300860699538
+    "total_compressed_size": 2732496,
+    "total_files": 3,
+    "version": 17627302109625349
 }
