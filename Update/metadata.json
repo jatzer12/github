@@ -1,158 +1,98 @@
 {
     "files": [
         {
-            "checksum": 1741796122,
-            "compressed_size": 87624,
+            "checksum": 988755545,
+            "compressed_size": 87204,
             "relative_path": "DataTable\\Character.edf",
             "size": 623621
         },
         {
-            "checksum": 732295890,
-            "compressed_size": 31192,
-            "relative_path": "DataTable\\en-gb\\NDCharacter.edf",
-            "size": 218625
-        },
-        {
-            "checksum": 2895805197,
-            "compressed_size": 11782,
-            "relative_path": "DataTable\\en-gb\\NDEventShip.edf",
-            "size": 12486
-        },
-        {
-            "checksum": 3273024502,
-            "compressed_size": 2047995,
-            "relative_path": "DataTable\\en-gb\\NDItem.edf",
-            "size": 7428540
-        },
-        {
-            "checksum": 1670660278,
-            "compressed_size": 2327,
-            "relative_path": "DataTable\\en-gb\\NDItemCash.edf",
-            "size": 2501
-        },
-        {
-            "checksum": 4193145090,
-            "compressed_size": 168543,
-            "relative_path": "DataTable\\en-gb\\NDLanguage.edf",
-            "size": 177004
-        },
-        {
-            "checksum": 3047414103,
-            "compressed_size": 324,
-            "relative_path": "DataTable\\en-gb\\NDMap.edf",
-            "size": 301
-        },
-        {
-            "checksum": 1204409117,
-            "compressed_size": 866,
-            "relative_path": "DataTable\\en-gb\\NDMsgEvent.edf",
-            "size": 7977
-        },
-        {
-            "checksum": 1280130734,
-            "compressed_size": 43346,
-            "relative_path": "DataTable\\en-gb\\NDMsgMonster.edf",
-            "size": 73030
-        },
-        {
-            "checksum": 855516255,
-            "compressed_size": 512169,
-            "relative_path": "DataTable\\en-gb\\NDQuest.edf",
-            "size": 603932
-        },
-        {
-            "checksum": 175291211,
-            "compressed_size": 50163,
-            "relative_path": "DataTable\\en-gb\\NDSkillForce.edf",
-            "size": 628105
-        },
-        {
-            "checksum": 3442839364,
-            "compressed_size": 53059,
-            "relative_path": "DataTable\\en-gb\\NDStore.edf",
-            "size": 54205
-        },
-        {
-            "checksum": 759376984,
-            "compressed_size": 14233,
+            "checksum": 3876896374,
+            "compressed_size": 14170,
             "relative_path": "DataTable\\EventShip.edf",
             "size": 41609
         },
         {
-            "checksum": 561898813,
-            "compressed_size": 2732432,
+            "checksum": 2740726606,
+            "compressed_size": 384,
+            "relative_path": "DataTable\\EventSound.edf",
+            "size": 361
+        },
+        {
+            "checksum": 563932371,
+            "compressed_size": 2719178,
             "relative_path": "DataTable\\Item.edf",
             "size": 14004675
         },
         {
-            "checksum": 253415719,
-            "compressed_size": 6069,
+            "checksum": 3028228275,
+            "compressed_size": 5898,
             "relative_path": "DataTable\\ItemCash.edf",
             "size": 35561
         },
         {
-            "checksum": 493309439,
-            "compressed_size": 1143162,
+            "checksum": 3808822362,
+            "compressed_size": 1139680,
             "relative_path": "DataTable\\ItemCombine.edf",
-            "size": 9927561
+            "size": 9945805
         },
         {
-            "checksum": 2455578614,
-            "compressed_size": 22270,
+            "checksum": 3531219274,
+            "compressed_size": 21788,
             "relative_path": "DataTable\\ItemPremium.edf",
             "size": 250561
         },
         {
-            "checksum": 3921017377,
-            "compressed_size": 9745,
+            "checksum": 2262588906,
+            "compressed_size": 9548,
             "relative_path": "DataTable\\ItemSetEffect.edf",
             "size": 58833
         },
         {
-            "checksum": 895270672,
-            "compressed_size": 6650,
+            "checksum": 3156526472,
+            "compressed_size": 5220,
             "relative_path": "DataTable\\ItemTimer.edf",
             "size": 10065
         },
         {
-            "checksum": 3532694345,
-            "compressed_size": 324,
+            "checksum": 3984720278,
+            "compressed_size": 111041,
             "relative_path": "DataTable\\Map.edf",
-            "size": 301
+            "size": 207467
         },
         {
-            "checksum": 612366262,
-            "compressed_size": 705,
+            "checksum": 3746778337,
+            "compressed_size": 695,
             "relative_path": "DataTable\\MsgEvent.edf",
             "size": 8181
         },
         {
-            "checksum": 193279748,
-            "compressed_size": 680,
+            "checksum": 3683538637,
+            "compressed_size": 677,
             "relative_path": "DataTable\\PlayerCharacter.edf",
             "size": 657
         },
         {
-            "checksum": 1614832681,
-            "compressed_size": 138719,
+            "checksum": 3798657489,
+            "compressed_size": 137283,
             "relative_path": "DataTable\\Quest.edf",
             "size": 1276641
         },
         {
-            "checksum": 46895782,
-            "compressed_size": 576407,
+            "checksum": 387504,
+            "compressed_size": 560244,
             "relative_path": "DataTable\\Resource.edf",
             "size": 4183229
         },
         {
-            "checksum": 3887470979,
-            "compressed_size": 71291,
+            "checksum": 2655266189,
+            "compressed_size": 69511,
             "relative_path": "DataTable\\SkillForce.edf",
             "size": 1290697
         },
         {
-            "checksum": 859925584,
-            "compressed_size": 45199,
+            "checksum": 2847274866,
+            "compressed_size": 43405,
             "relative_path": "DataTable\\Store.edf",
             "size": 540729
         },
@@ -163,7 +103,7 @@
             "size": 400
         }
     ],
-    "total_compressed_size": 7777276,
-    "total_files": 26,
-    "version": 17627975112586338
+    "total_compressed_size": 4925926,
+    "total_files": 16,
+    "version": 17628133913855344
 }
