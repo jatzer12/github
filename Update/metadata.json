@@ -157,13 +157,13 @@
             "size": 540729
         },
         {
-            "checksum": 2910954790,
-            "compressed_size": 383,
+            "checksum": 2962779374,
+            "compressed_size": 379,
             "relative_path": "system\\config.ini",
-            "size": 390
+            "size": 400
         }
     ],
     "total_compressed_size": 7777276,
     "total_files": 26,
-    "version": 17627344154184204
+    "version": 17627975112586338
 }
