@@ -1,22 +1,160 @@
 {
     "files": [
         {
+            "checksum": 1741796122,
+            "compressed_size": 87624,
+            "relative_path": "DataTable\\Character.edf",
+            "size": 623621
+        },
+        {
+            "checksum": 732295890,
+            "compressed_size": 31192,
+            "relative_path": "DataTable\\en-gb\\NDCharacter.edf",
+            "size": 218625
+        },
+        {
+            "checksum": 2895805197,
+            "compressed_size": 11782,
+            "relative_path": "DataTable\\en-gb\\NDEventShip.edf",
+            "size": 12486
+        },
+        {
+            "checksum": 3273024502,
+            "compressed_size": 2047995,
+            "relative_path": "DataTable\\en-gb\\NDItem.edf",
+            "size": 7428540
+        },
+        {
+            "checksum": 1670660278,
+            "compressed_size": 2327,
+            "relative_path": "DataTable\\en-gb\\NDItemCash.edf",
+            "size": 2501
+        },
+        {
+            "checksum": 4193145090,
+            "compressed_size": 168543,
+            "relative_path": "DataTable\\en-gb\\NDLanguage.edf",
+            "size": 177004
+        },
+        {
+            "checksum": 3047414103,
+            "compressed_size": 324,
+            "relative_path": "DataTable\\en-gb\\NDMap.edf",
+            "size": 301
+        },
+        {
+            "checksum": 1204409117,
+            "compressed_size": 866,
+            "relative_path": "DataTable\\en-gb\\NDMsgEvent.edf",
+            "size": 7977
+        },
+        {
+            "checksum": 1280130734,
+            "compressed_size": 43346,
+            "relative_path": "DataTable\\en-gb\\NDMsgMonster.edf",
+            "size": 73030
+        },
+        {
+            "checksum": 855516255,
+            "compressed_size": 512169,
+            "relative_path": "DataTable\\en-gb\\NDQuest.edf",
+            "size": 603932
+        },
+        {
+            "checksum": 175291211,
+            "compressed_size": 50163,
+            "relative_path": "DataTable\\en-gb\\NDSkillForce.edf",
+            "size": 628105
+        },
+        {
+            "checksum": 3442839364,
+            "compressed_size": 53059,
+            "relative_path": "DataTable\\en-gb\\NDStore.edf",
+            "size": 54205
+        },
+        {
+            "checksum": 759376984,
+            "compressed_size": 14233,
+            "relative_path": "DataTable\\EventShip.edf",
+            "size": 41609
+        },
+        {
             "checksum": 561898813,
             "compressed_size": 2732432,
             "relative_path": "DataTable\\Item.edf",
             "size": 14004675
         },
         {
-            "checksum": 1483194872,
-            "compressed_size": 29,
-            "relative_path": "Test Update.txt",
-            "size": 9
+            "checksum": 253415719,
+            "compressed_size": 6069,
+            "relative_path": "DataTable\\ItemCash.edf",
+            "size": 35561
         },
         {
-            "checksum": 2604796502,
-            "compressed_size": 35,
-            "relative_path": "test11.txt",
-            "size": 15
+            "checksum": 493309439,
+            "compressed_size": 1143162,
+            "relative_path": "DataTable\\ItemCombine.edf",
+            "size": 9927561
+        },
+        {
+            "checksum": 2455578614,
+            "compressed_size": 22270,
+            "relative_path": "DataTable\\ItemPremium.edf",
+            "size": 250561
+        },
+        {
+            "checksum": 3921017377,
+            "compressed_size": 9745,
+            "relative_path": "DataTable\\ItemSetEffect.edf",
+            "size": 58833
+        },
+        {
+            "checksum": 895270672,
+            "compressed_size": 6650,
+            "relative_path": "DataTable\\ItemTimer.edf",
+            "size": 10065
+        },
+        {
+            "checksum": 3532694345,
+            "compressed_size": 324,
+            "relative_path": "DataTable\\Map.edf",
+            "size": 301
+        },
+        {
+            "checksum": 612366262,
+            "compressed_size": 705,
+            "relative_path": "DataTable\\MsgEvent.edf",
+            "size": 8181
+        },
+        {
+            "checksum": 193279748,
+            "compressed_size": 680,
+            "relative_path": "DataTable\\PlayerCharacter.edf",
+            "size": 657
+        },
+        {
+            "checksum": 1614832681,
+            "compressed_size": 138719,
+            "relative_path": "DataTable\\Quest.edf",
+            "size": 1276641
+        },
+        {
+            "checksum": 46895782,
+            "compressed_size": 576407,
+            "relative_path": "DataTable\\Resource.edf",
+            "size": 4183229
+        },
+        {
+            "checksum": 3887470979,
+            "compressed_size": 71291,
+            "relative_path": "DataTable\\SkillForce.edf",
+            "size": 1290697
+        },
+        {
+            "checksum": 859925584,
+            "compressed_size": 45199,
+            "relative_path": "DataTable\\Store.edf",
+            "size": 540729
         },
         {
             "checksum": 2910954790,
@@ -25,7 +163,7 @@
             "size": 390
         }
     ],
-    "total_compressed_size": 2732496,
-    "total_files": 3,
-    "version": 17627302109625349
+    "total_compressed_size": 7777276,
+    "total_files": 26,
+    "version": 17627339640655114
 }
