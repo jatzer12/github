@@ -91,8 +91,8 @@
             "size": 1290697
         },
         {
-            "checksum": 2124406302,
-            "compressed_size": 45179,
+            "checksum": 1260310218,
+            "compressed_size": 45193,
             "relative_path": "DataTable\\Store.edf",
             "size": 540729
         },
@@ -103,7 +103,7 @@
             "size": 400
         }
     ],
-    "total_compressed_size": 4940983,
+    "total_compressed_size": 4940997,
     "total_files": 16,
-    "version": 17628346554709694
+    "version": 17628352448443001
 }
