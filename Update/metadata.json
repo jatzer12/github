@@ -19,8 +19,8 @@
             "size": 361
         },
         {
-            "checksum": 975800534,
-            "compressed_size": 2731805,
+            "checksum": 3793503549,
+            "compressed_size": 2732461,
             "relative_path": "DataTable\\Item.edf",
             "size": 14004675
         },
@@ -91,8 +91,8 @@
             "size": 1290697
         },
         {
-            "checksum": 2847274866,
-            "compressed_size": 43405,
+            "checksum": 2124406302,
+            "compressed_size": 45179,
             "relative_path": "DataTable\\Store.edf",
             "size": 540729
         },
@@ -103,7 +103,7 @@
             "size": 400
         }
     ],
-    "total_compressed_size": 4938553,
+    "total_compressed_size": 4940983,
     "total_files": 16,
-    "version": 17628317229804319
+    "version": 17628346554709694
 }
